@@ -14,7 +14,7 @@ This project implements a Python script for detecting anomalies in a continuous 
 1. Ensure you have Python 3.x installed.
 2. Clone this repository:
    ```
-   git clone https://github.com/yourusername/efficient-data-stream-anomaly-detection.git
+   git clone https://github.com/Lakshay2k3/efficient-data-stream-anomaly-detection.git
    cd efficient-data-stream-anomaly-detection
    ```
 3. Install required packages:
@@ -51,7 +51,7 @@ python -m pytest tests/
 The anomaly detection algorithm uses a moving window approach with z-score calculation. It maintains a window of recent data points, calculates the mean and standard deviation, and flags a point as an anomaly if its z-score exceeds a specified threshold. This approach allows for adaptation to gradual changes in the data distribution while still detecting sudden anomalies.
 
 ## Author
-[Your Name]
+Lakshay Garg
 
 ## License
 This project is open source and available under the [MIT License](LICENSE).
