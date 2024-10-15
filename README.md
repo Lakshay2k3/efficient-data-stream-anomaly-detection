@@ -14,7 +14,7 @@ This project implements a Python script for detecting anomalies in a continuous 
 1. Ensure you have Python 3.x installed.
 2. Clone this repository:
    ```
-   git clone https://github.com/Lakshay2k3/efficient-data-stream-anomaly-detection.git
+   git clone https://github.com/Lakshay2k3/efficient-data-stream-anomaly-detection
    cd efficient-data-stream-anomaly-detection
    ```
 3. Install required packages:
